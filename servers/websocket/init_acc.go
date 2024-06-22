@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/link1st/gowebsocket/v2/helper"
-	"github.com/link1st/gowebsocket/v2/models"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/helper"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/models"
 
 	"github.com/gorilla/websocket"
 	"github.com/spf13/viper"

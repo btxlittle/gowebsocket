@@ -12,11 +12,11 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 
-	"github.com/link1st/gowebsocket/v2/lib/redislib"
-	"github.com/link1st/gowebsocket/v2/routers"
-	"github.com/link1st/gowebsocket/v2/servers/grpcserver"
-	"github.com/link1st/gowebsocket/v2/servers/task"
-	"github.com/link1st/gowebsocket/v2/servers/websocket"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/lib/redislib"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/routers"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/servers/grpcserver"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/servers/task"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/servers/websocket"
 )
 
 func main() {

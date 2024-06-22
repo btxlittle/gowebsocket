@@ -7,8 +7,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/link1st/gowebsocket/v2/lib/redislib"
-	"github.com/link1st/gowebsocket/v2/models"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/lib/redislib"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/models"
 
 	"github.com/redis/go-redis/v9"
 )

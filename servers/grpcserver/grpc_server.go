@@ -7,10 +7,10 @@ import (
 	"log"
 	"net"
 
-	"github.com/link1st/gowebsocket/v2/common"
-	"github.com/link1st/gowebsocket/v2/models"
-	"github.com/link1st/gowebsocket/v2/protobuf"
-	"github.com/link1st/gowebsocket/v2/servers/websocket"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/common"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/models"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/protobuf"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/servers/websocket"
 
 	"github.com/spf13/viper"
 	"google.golang.org/grpc"

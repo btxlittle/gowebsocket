@@ -6,8 +6,8 @@ import (
 	"runtime/debug"
 	"time"
 
-	"github.com/link1st/gowebsocket/v2/lib/cache"
-	"github.com/link1st/gowebsocket/v2/servers/websocket"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/lib/cache"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/servers/websocket"
 )
 
 // ServerInit 服务初始化

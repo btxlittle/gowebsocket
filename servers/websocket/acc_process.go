@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/link1st/gowebsocket/v2/common"
-	"github.com/link1st/gowebsocket/v2/models"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/common"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/models"
 )
 
 // DisposeFunc 处理函数

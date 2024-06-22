@@ -1,7 +1,7 @@
 // Package models 数据模型
 package models
 
-import "github.com/link1st/gowebsocket/v2/common"
+import "g2git.hdyouxi.com/xiandi/game-socket-server/common"
 
 const (
 	// MessageTypeText 文本类型消息

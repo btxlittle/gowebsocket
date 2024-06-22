@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/link1st/gowebsocket/v2/common"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/common"
 )
 
 type BaseController struct {

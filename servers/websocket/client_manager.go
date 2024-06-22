@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/link1st/gowebsocket/v2/helper"
-	"github.com/link1st/gowebsocket/v2/lib/cache"
-	"github.com/link1st/gowebsocket/v2/models"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/helper"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/lib/cache"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/models"
 )
 
 // ClientManager 连接管理

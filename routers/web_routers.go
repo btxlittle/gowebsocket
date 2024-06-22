@@ -4,9 +4,9 @@ package routers
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/link1st/gowebsocket/v2/controllers/home"
-	"github.com/link1st/gowebsocket/v2/controllers/systems"
-	"github.com/link1st/gowebsocket/v2/controllers/user"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/controllers/home"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/controllers/systems"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/controllers/user"
 )
 
 // Init http 接口路由

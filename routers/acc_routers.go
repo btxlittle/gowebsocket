@@ -2,7 +2,7 @@
 package routers
 
 import (
-	"github.com/link1st/gowebsocket/v2/servers/websocket"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/servers/websocket"
 )
 
 // WebsocketInit Websocket 路由

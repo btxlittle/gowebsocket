@@ -1,4 +1,4 @@
-module github.com/link1st/gowebsocket/v2
+module g2git.hdyouxi.com/xiandi/game-socket-server
 
 go 1.22
 

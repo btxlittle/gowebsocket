@@ -5,7 +5,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/link1st/gowebsocket/v2/lib/redislib"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/lib/redislib"
 )
 
 const (

@@ -7,11 +7,11 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/link1st/gowebsocket/v2/common"
-	"github.com/link1st/gowebsocket/v2/controllers"
-	"github.com/link1st/gowebsocket/v2/lib/cache"
-	"github.com/link1st/gowebsocket/v2/models"
-	"github.com/link1st/gowebsocket/v2/servers/websocket"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/common"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/controllers"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/lib/cache"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/models"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/servers/websocket"
 )
 
 // List 查看全部在线用户

@@ -10,9 +10,9 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	"github.com/link1st/gowebsocket/v2/common"
-	"github.com/link1st/gowebsocket/v2/models"
-	"github.com/link1st/gowebsocket/v2/protobuf"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/common"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/models"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/protobuf"
 )
 
 // SendMsgAll 给全体用户发送消息

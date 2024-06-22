@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/link1st/gowebsocket/v2/common"
-	"github.com/link1st/gowebsocket/v2/lib/cache"
-	"github.com/link1st/gowebsocket/v2/models"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/common"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/lib/cache"
+	"g2git.hdyouxi.com/xiandi/game-socket-server/models"
 
 	"github.com/redis/go-redis/v9"
 )
