@@ -12,9 +12,9 @@ import (
 	"github.com/link1st/gowebsocket/v2/protobuf"
 	"github.com/link1st/gowebsocket/v2/servers/websocket"
 
-	"github.com/golang/protobuf/proto"
 	"github.com/spf13/viper"
 	"google.golang.org/grpc"
+	"google.golang.org/protobuf/proto"
 )
 
 type server struct {
